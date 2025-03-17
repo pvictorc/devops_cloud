@@ -58,10 +58,6 @@ Networking monitoring
 
 -   [Zabbix](https://www.zabbix.com/)
 
-SaaS
-----
-
--   [Server Density](https://www.serverdensity.com/)
 
 
 <!-- cat README.md | pandoc --from markdown  --toc -s  --to markdown - -->
