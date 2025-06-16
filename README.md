@@ -8,7 +8,6 @@
     -   [Server / Metrics exporter](#server-metrics-exporter)
     -   [URL Monitoring](#url-monitoring)
     -   [Networking monitoring](#networking-monitoring)
-    -   [SaaS](#saas)
 
 DevOps and Cloud Tools and Tips
 ===============================
